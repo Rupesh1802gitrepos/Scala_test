@@ -1,0 +1,3 @@
+recordType,Name,errors.errorCode,errors.errorName
+01 , ABC , 100, name error
+01 , ABC ,200 , addess error

@@ -1,0 +1,9 @@
+{ “id” : “595ada836ef4fb4fe47d8c01”,
+ “response” : { “0” : { “currency” : “JPY”, “rate” : 112.27 }, 
+ “1” : { “currency” : “AUD”, “rate” : 1.30078 },
+ “2” : { “currency” : “EUR”, “rate” : 0.87544 }, 
+ “3” : { “currency” : “GBP”, “rate” : 0.76829 },
+ “4” : { “currency” : “CNY”, “rate” : 6.77907 } }, 
+ “ratesDate” : “2017–07–03”,
+ “createdAt” : “2017–07–04T00:00:03.421Z”,
+ “updatedAt” : “2017–07–04T00:00:03.421Z” }

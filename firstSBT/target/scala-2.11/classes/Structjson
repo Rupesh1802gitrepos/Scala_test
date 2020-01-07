@@ -1,0 +1,11 @@
+{"lineage":
+{"datasource":35,"recieveDate":15437160000,"fileNmae":"file:/abc.txt"},
+"eventId":657926176257343,
+"validateRecordJson":"{\"R01_CodigoDaNaturezaJuridicia\":\"2  \",
+\"R01_CodigoDoTipodemoeda\":\"9  \",
+\"R01_NomeDaEmpresaAntecessora\":\"WEST MASK-RAZD \",
+\"R01_CodigoSequencial\":\"000 \",
+\"R01_DataDeIncioDasAtividaes\":\"03061976 \",
+\"R01_Atos\":\"14 \"}",
+"qualityScores":[{"name":"RejectedRecord","score":0.0}],
+"keys":""}
